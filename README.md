@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-O Link-Bios é um agregador de links para usar como cartão de visitas online.
+O Link-Bio é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://ronnysenna.github.io/link-bio)
 
