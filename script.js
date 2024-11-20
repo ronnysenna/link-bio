@@ -1,10 +1,3 @@
 function toggleMode() {
-  //  html.classList.toggle("light")
-
-  const html = document.documentElement
-  if(html.classList.contains('light')){
-    html.classList.remove('light')
-  } else {
-    html.classList.add('light')
-  }
+  document.documentElement.classList.toggle('light');
 }
